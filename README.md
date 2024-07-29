@@ -1,0 +1,1 @@
+A brief review of famous EPR PARADOX research paper published by Einstein, Podolsky and Rosen to demonstrate the weirdness of Quantum Physics, and explaining the ways this paradox can be counter balanced by Bell's Inequality.
